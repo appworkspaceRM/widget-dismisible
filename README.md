@@ -100,3 +100,5 @@ class MyDismissible extends StatelessWidget {
   }
 }
 ```
+![code-snapshot](https://github.com/appworkspaceRM/widget-dismisible/assets/135511281/90199930-16b1-415c-979c-50ae44d6554a)
+
